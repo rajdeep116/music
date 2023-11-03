@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'NzcwNjYzMDMwNzM5NDM1NTMw.G2CdlZ.3B6h4a2RLDuPJSLjpEpSh1lUjgfs8CyCgqrIzo',
+        token: 'NzcwNjYzMDMwNzM5NDM1NTMw.Guoibl.TFVe5EPHLp2xfWfYGzdd_J5txT-TNreBjrCR9w',
         playing: 'by plexdx ❤️',
         global: true,
         guild: 'XXX'
